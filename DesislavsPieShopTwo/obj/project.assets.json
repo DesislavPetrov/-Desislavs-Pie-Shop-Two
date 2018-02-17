@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\WinPC\\source\\repos\\DesislavsPieShopTwo\\DesislavsPieShopTwo\\DesislavsPieShopTwo.csproj",
+      "projectUniqueName": "E:\\GitHub\\Desislavs-Pie-Shop-Two\\DesislavsPieShopTwo\\DesislavsPieShopTwo.csproj",
       "projectName": "DesislavsPieShopTwo",
-      "projectPath": "C:\\Users\\WinPC\\source\\repos\\DesislavsPieShopTwo\\DesislavsPieShopTwo\\DesislavsPieShopTwo.csproj",
+      "projectPath": "E:\\GitHub\\Desislavs-Pie-Shop-Two\\DesislavsPieShopTwo\\DesislavsPieShopTwo.csproj",
       "packagesPath": "C:\\Users\\WinPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WinPC\\source\\repos\\DesislavsPieShopTwo\\DesislavsPieShopTwo\\obj\\",
+      "outputPath": "E:\\GitHub\\Desislavs-Pie-Shop-Two\\DesislavsPieShopTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
