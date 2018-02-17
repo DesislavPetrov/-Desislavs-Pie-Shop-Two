@@ -1,0 +1,11 @@
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\bin\Debug\netcoreapp2.0\DesislavsPieShopTwo.deps.json
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\bin\Debug\netcoreapp2.0\DesislavsPieShopTwo.runtimeconfig.json
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\bin\Debug\netcoreapp2.0\DesislavsPieShopTwo.runtimeconfig.dev.json
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\bin\Debug\netcoreapp2.0\DesislavsPieShopTwo.dll
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\bin\Debug\netcoreapp2.0\DesislavsPieShopTwo.pdb
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.csprojResolveAssemblyReference.cache
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.csproj.CoreCompileInputs.cache
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.AssemblyInfoInputs.cache
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.AssemblyInfo.cs
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.dll
+E:\GitHub\Desislavs-Pie-Shop-Two\DesislavsPieShopTwo\obj\Debug\netcoreapp2.0\DesislavsPieShopTwo.pdb
