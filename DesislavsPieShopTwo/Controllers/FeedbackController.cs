@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using DesislavsPieShopTwo.Models;
+using Microsoft.AspNetCore.Authorization;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace DesislavsPieShopTwo.Controllers
 {
+    [Authorize]
     public class FeedbackController : Controller
     {
         private readonly IFeedbackRepository _feedbackRepository;
